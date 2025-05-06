@@ -95,6 +95,8 @@
   .bento-grid {
     display: grid;
     gap: 24px;
+    max-inline-size: 1100px;
+    margin-inline: auto;
     grid-template-areas:
       "one"
       "two"
